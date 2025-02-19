@@ -16,19 +16,16 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 自然言語理解と人工知能を備えたPythonチャットボットフレームワーク。
-
-
-**Browser-extensions**
- * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawkは、仕事の応募プロセスを自動化することで、簡単な求人活動を目指しています。人工知能を活用して、ユーザーが複数の仕事に適した方法で応募できるようにしています。
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - 大規模なPDFドキュメント用のLangChain＆LangGraph AIチャットボット
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy: デスクトップAIアシスタント
 
 
 **NLP**
- * [parlant](https://github.com/emcie-co/parlant) - 顧客対応LLMエージェント向けの重要なガイダンスフレームワーク
- * [nerve](https://github.com/dreadnode/nerve) - コードを書かずにLLMエージェントを作成します。
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Pythonにおけるプライベートデータに対する理由の代替としての深い研究
+ * [bailing](https://github.com/wwbin2017/bailing) - 百聆は、GPT-4oに似た音声対話ロボットで、ASR+LLM+TTSを使用しており、DeepSeek R1などの優れた大規模モデルを統合しています。遅延は800msまで低減されており、低構成でも動作可能で、打ち消しもサポートしています。
 
 
-_Updated on February 03, 2025_ (A total of 1978 repositories listed.)
+_Updated on February 20, 2025_ (A total of 1994 repositories listed.)
 
 ## Table of contents
 
@@ -124,6 +121,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 世界最高のLLMリソースの要約
  * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI自律エージェントのリスト
  * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します 一键部署各种Github开源AI项目
+ * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀大規模言語モデル（LLM）、ビジョン言語モデル（VLM）、ビジョン言語アクション（VLA）、AI生成コンテンツ（AIGC）に関するいくつかの素晴らしい公開プロジェクト、関連するデータセット、およびアプリケーションのコレクション。
 
 
 ## Prompts
@@ -282,6 +280,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - Input: DataDreamer: プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤Output: データドリーマー：プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤
  * [LangChain](https://github.com/tryagi/langchain) - LangChainのC#実装。抽象化に関して可能な限りオリジナルに近づこうと努めていますが、新しいエンティティにもオープンです。
  * [Kiln](https://github.com/kiln-ai/kiln) - LLMモデルの微調整、合成データ生成、およびデータセットの共同作業に最適なツール。
+ * [JamAIBase](https://github.com/embeddedllm/jamaibase) - AI向けの共同スプレッドシート。強力なパイプラインを作成し、プロンプトやモデルを試して、LLMの応答をリアルタイムで評価します。シームレスに連携してAIアプリケーションを構築し、繰り返し作業を行います。
 
 
 ## Chatbots
@@ -575,6 +574,8 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows
  * [Upsonic](https://github.com/upsonic/upsonic) - 私たちは一切の暗号プロジェクトを持っておらず、持つ予定もありません。それらは完全な詐欺です。| デジタルワーカーや垂直AIエージェント向けのタスク指向型AIエージェントフレームワーク
  * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 自然言語理解と人工知能を備えたPythonチャットボットフレームワーク。
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - 大規模なPDFドキュメント用のLangChain＆LangGraph AIチャットボット
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy: デスクトップAIアシスタント
 
 
 ## Browser-extensions
@@ -786,6 +787,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [browser-use](https://github.com/browser-use/browser-use) - AIエージェントにウェブサイトをアクセス可能にする
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - プライバシーに焦点を当てたAIアシスタントと連携するObsidianプラグインを使用して、あなたの第二の脳をさらに賢くします！
  * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawkは、仕事の応募プロセスを自動化することで、簡単な求人活動を目指しています。人工知能を活用して、ユーザーが複数の仕事に適した方法で応募できるようにしています。
+ * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - VS Code向けのオープンソース、ネイティブで真のGitHub Copilotの代替品
 
 
 ## CLIs
@@ -935,6 +937,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
  * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - 複数のLLMからの回答を一度にサポートするAndroid用のチャットアプリ。独自のAPIキーAIクライアントを持参してください。OpenAI、Anthropic、Google、Ollamaをサポート。Material3＆Composeで設計されています。
  * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - Unity向けの非公式OpenAI Restクライアント（UPM）
+ * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - OllamaとLM Studioモデル（Llava、Gemma、Llamaなど）を使用して、ファイルの内容に基づいてファイル名を知的に変更するNode.js CLI
 
 
 ## Reimplementations
@@ -975,6 +978,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [WhisperLive](https://github.com/collabora/whisperlive) - OpenAIのWhisperのほぼライブ実装。
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - このリポジトリは、基本から高度なまでさまざまな生成AIエージェント技術のチュートリアルと実装を提供しています。知的でインタラクティブなAIシステムを構築するための包括的なガイドとして機能します。
  * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 一つのGPUで実行可能なLLaMAベースのChatGPTのオープンソース実装。ChatGPTよりも15倍高速なトレーニングプロセス。
+ * [deep-research](https://github.com/dzhng/deep-research) - 私自身のオープンソース実装は、OpenAIの新しいDeep Researchエージェントです。200ドル支払わずに同じ機能を手に入れることができます。さらに、エージェントの振る舞いを調整可能な幅と深さで調整することさえできます。5分間でも5時間でも実行し、自動調整されます。
 
 
 ## Tutorials
@@ -1298,6 +1302,8 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [CodeGen](https://github.com/salesforce/codegen) - CodeGenはプログラム合成のためのオープンソースモデルファミリーです。TPU-v4でトレーニングされています。OpenAI Codexと競合しています。
  * [parlant](https://github.com/emcie-co/parlant) - 顧客対応LLMエージェント向けの重要なガイダンスフレームワーク
  * [nerve](https://github.com/dreadnode/nerve) - コードを書かずにLLMエージェントを作成します。
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Pythonにおけるプライベートデータに対する理由の代替としての深い研究
+ * [bailing](https://github.com/wwbin2017/bailing) - 百聆は、GPT-4oに似た音声対話ロボットで、ASR+LLM+TTSを使用しており、DeepSeek R1などの優れた大規模モデルを統合しています。遅延は800msまで低減されており、低構成でも動作可能で、打ち消しもサポートしています。
 
 
 ## Langchain
@@ -1429,6 +1435,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [generative-ai](https://github.com/genieincodebottle/generative-ai) - ジェネレーティブAIに関する包括的なリソース、詳細なロードマップ、プロジェクト、ユースケース、インタビュー準備、コーディング準備などを提供しています。
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - Paperless-ngxのための自動文書分析ツール。OpenAI APIとOllama（Mistral、llama、phi 3、gemma 2）を使用して、文書を自動的に分析しタグ付けします。
  * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - LangChainを使用したGenAIアプリケーションのための大規模言語モデルの理解と実装に関する包括的なガイドと、実践的な例を紹介します。
+ * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - ビデオやオーディオ用の字幕を一括生成し、一括で他の言語に翻訳することができます。これはクライアントツールであり、MacとWindowsシステムをサポートするクロスプラットフォームです。バイドゥ、火山、deeplx、openai、deepseek、ollamaなど、複数の翻訳サービスをサポートしています。
 
 
 ## Unity
@@ -1667,6 +1674,10 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat、シンプルで使いやすいインターフェースを備えたAIプラットフォームに統合されたチャットと検索。Chat Chat、あなた自身の統合されたチャットと検索をAIプラットフォームで、シンプルで使いやすいインターフェースで提供します。
  * [mindforger](https://github.com/dvorka/mindforger) - 考えるノートブックとMarkdownエディタ。
  * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - これは、リアルタイムAPIをベースに構築されたより高度なエージェントパターンのシンプルなデモンストレーションです。
+ * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - 答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）
+ * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：FinRLのための動的データセットと市場環境。FinRL-Meta：FinRLのための動的データセットと市場環境。
+ * [note-gen](https://github.com/codexu/note-gen) - 記録と執筆に特化したクロスプラットフォームAIノート
+ * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1とClaude 3.5 Sonnetが最高の組み合わせを実現し、最強モデルの力を完全に解放します。OpenAIストリーミング出力をサポートし、お気に入りのChatBoxで実行できます！
 
 
 ## Others
@@ -2081,5 +2092,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS ボイラープレート ⚡️ 無料オープンソース ChatGPT UI 管理ダッシュボードテンプレート - Horizon AI ボイラープレート
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - Visual Studio Code での CMake 統合
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI チャット for Teams - チームの独自の知識にアクセスできる場合、ChatGPTを考えてください。
+ * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀「大模型」を3時間でゼロから27MパラメータのビジュアルマルチモードVLMをトレーニング！🌏たった3時間で27MパラメータのVLMをゼロからトレーニング！
+ * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - フロントエンドとバックエンドが同時にオープンソース化されています。 Ai-to-pptxは、AI技術（DeepSeek）を使用してPPTXを作成するためのアシスタントであり、オンラインでの生成とPPTXのエクスポートをサポートしています。 主な機能：1. DeepSeekなどの大規模言語モデルを使用してアウトラインを生成する 2. PPTXを生成する際に異なるテンプレートを選択できる 3. PPTXのエクスポートをサポート
 
 

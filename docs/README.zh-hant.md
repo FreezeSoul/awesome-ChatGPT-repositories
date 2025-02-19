@@ -16,19 +16,16 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 一個具有自然語言理解和人工智慧功能的Python聊天機器人框架。
-
-
-**Browser-extensions**
- * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk 旨在通過自動化求職流程來簡化求職過程。利用人工智能，它使用戶可以以定制的方式申請多個工作。
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain和LangGraph AI聊天機器人適用於大型PDF文件
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy: 桌面人工智慧助理
 
 
 **NLP**
- * [parlant](https://github.com/emcie-co/parlant) - 面向客戶的LLM代理人的重型指導框架
- * [nerve](https://github.com/dreadnode/nerve) - 無需編寫代碼即可創建LLM代理。
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - 在Python中深入研究私人数据的替代理由
+ * [bailing](https://github.com/wwbin2017/bailing) - 百聆 是一個類似GPT-4o的語音對話機器人，通過ASR+LLM+TTS實現，集成DeepSeek R1等優秀大模型，時延低至800ms，低配置也可運行，支持打斷。
 
 
-_Updated on February 03, 2025_ (A total of 1978 repositories listed.)
+_Updated on February 20, 2025_ (A total of 1994 repositories listed.)
 
 ## Table of contents
 
@@ -124,6 +121,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全世界最好的LLM資料總結 | Summary of the world's best LLM resources.
  * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI 自主代理的清單
  * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 一鍵部署許多github開源項目，以促進快速體驗
+ * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀一系列關於大型語言模型（LLM）、視覺語言模型（VLM）、視覺語言行動（VLA）、人工智慧生成內容（AIGC）、相關數據集和應用的精彩公共項目收藏。
 
 
 ## Prompts
@@ -282,6 +280,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer：提示。生成合成數據。訓練和對齊模型。🤖💤
  * [LangChain](https://github.com/tryagi/langchain) - LangChain的C#實現。我們試圖在抽象方面盡可能接近原始版本，但也願意接受新實體。LangChain的C#實現。我們試圖在抽象方面盡可能接近原始版本，但也願意接受新實體。
  * [Kiln](https://github.com/kiln-ai/kiln) - 微調LLM模型、合成數據生成和協作數據集的最簡單工具。
+ * [JamAIBase](https://github.com/embeddedllm/jamaibase) - 用於人工智慧的協作試算表。將單元格鏈接成強大的管道，通過提示和模型進行實驗，並即時評估LLM的回應。無縫合作，共同建立和迭代人工智慧應用程序。
 
 
 ## Chatbots
@@ -575,6 +574,8 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows
  * [Upsonic](https://github.com/upsonic/upsonic) - 我們絕對不會有任何加密項目，它們都是完全的騙局 | 面向任務的人工智能代理框架，用於數字工作者和垂直人工智能代理
  * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 一個具有自然語言理解和人工智慧功能的Python聊天機器人框架。
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain和LangGraph AI聊天機器人適用於大型PDF文件
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy: 桌面人工智慧助理
 
 
 ## Browser-extensions
@@ -786,6 +787,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [browser-use](https://github.com/browser-use/browser-use) - 使網站對AI代理人可訪問
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - 一個黑曜石插件，可與您注重隱私的AI助手互動，使您的第二大腦更加智能！
  * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk 旨在通過自動化求職流程來簡化求職過程。利用人工智能，它使用戶可以以定制的方式申請多個工作。
+ * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - 開源、本地化且真正的 GitHub Copilot 替代方案，適用於 VS Code
 
 
 ## CLIs
@@ -935,6 +937,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。
  * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - 支援一次從多個LLM獲取答案的Android聊天應用程式。使用您自己的API金鑰AI客戶端。支援OpenAI、Anthropic、Google和Ollama。設計使用Material3和Compose。
  * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - 一個非官方的OpenAI Rest客戶端，適用於Unity (UPM)
+ * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - 一個使用Ollama和LM Studio模型（Llava、Gemma、Llama等）的Node.js CLI，可以根據文件內容智能地重新命名文件。
 
 
 ## Reimplementations
@@ -975,6 +978,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [WhisperLive](https://github.com/collabora/whisperlive) - 一個幾乎實時實現OpenAI的Whisper。
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - 這個存儲庫提供了各種生成式人工智能代理技術的教程和實現，從基礎到高級。它作為構建智能、互動式人工智能系統的全面指南。
  * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 是一個基於 LLaMA 的開源實現，可在單個 GPU 上運行的 ChatGPT。訓練過程比 ChatGPT 快 15 倍。
+ * [deep-research](https://github.com/dzhng/deep-research) - 我自己的開源實現OpenAI新的Deep Research代理。無需支付200美元即可獲得相同的功能。您甚至可以通過可調節的廣度和深度來調整代理的行為。運行5分鐘或5小時，它將自動調整。
 
 
 ## Tutorials
@@ -1298,6 +1302,8 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [CodeGen](https://github.com/salesforce/codegen) - CodeGen 是一個用於程式合成的開源模型系列。在 TPU-v4 上進行訓練。與 OpenAI Codex 競爭。
  * [parlant](https://github.com/emcie-co/parlant) - 面向客戶的LLM代理人的重型指導框架
  * [nerve](https://github.com/dreadnode/nerve) - 無需編寫代碼即可創建LLM代理。
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - 在Python中深入研究私人数据的替代理由
+ * [bailing](https://github.com/wwbin2017/bailing) - 百聆 是一個類似GPT-4o的語音對話機器人，通過ASR+LLM+TTS實現，集成DeepSeek R1等優秀大模型，時延低至800ms，低配置也可運行，支持打斷。
 
 
 ## Langchain
@@ -1429,6 +1435,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [generative-ai](https://github.com/genieincodebottle/generative-ai) - 包括詳細路線圖、項目、用例、面試準備和編碼準備在內的生成式人工智能的綜合資源。
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - 一個自動文件分析器，使用OpenAI API和Ollama（Mistral，llama，phi 3，gemma 2）來自動分析和標記您的文件。
  * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - 一個全面的指南，以實際示例使用LangChain來理解和實施大型語言模型，適用於GenAI應用程式。
+ * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量為視頻或者音頻生成字幕，並可批量將字幕翻譯成其他語言。這是一個客戶端工具，跨平台支持 mac 和 windows 系統，支持百度，火山，deeplx, openai, deepseek, ollama 等多個翻譯服務。
 
 
 ## Unity
@@ -1667,6 +1674,10 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [ChatChat](https://github.com/okisdev/chatchat) - 聊天聊天，您自己的統一聊天和搜索AI平台，具有簡單易用的界面。
  * [mindforger](https://github.com/dvorka/mindforger) - 思考筆記本和Markdown編輯器。
  * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - 這是建立在即時API之上的更高級、主動性模式的簡單演示。
+ * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - 持續搜索、閱讀網頁、推理直到找到答案（或超出令牌預算）
+ * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：FinRL的動態數據集和市場環境。
+ * [note-gen](https://github.com/codexu/note-gen) - 一款專注於記錄和寫作的跨平台 AI 筆記
+ * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1和Claude 3.5 Sonnet實現了最佳組合，充分發揮了最強模型的力量。支持OpenAI流式輸出，並可在您喜愛的ChatBox上運行！
 
 
 ## Others
@@ -2081,5 +2092,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS 樣板 ⚡️ 免費開源 ChatGPT UI 管理員儀表板模板 - Horizon AI 樣板
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - 在Visual Studio Code中集成CMake
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI團隊聊天-如果它可以訪問您團隊的獨特知識，就像ChatGPT一樣。
+ * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 在短短3小时内从零开始训练一个拥有27M参数的视觉多模态VLM！🌏
+ * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - 前端後端同時開源。Ai-to-pptx是一個使用AI技術(DeepSeek)製作PPTX的助手，支持線上生成和匯出PPTX。主要功能: 1 使用DeepSeek等大語言模型來生成大綱 2 生成PPTX的時候可以選擇不同的模板 3 支持匯出PPTX。
 
 

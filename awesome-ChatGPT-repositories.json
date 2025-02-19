@@ -1943,6 +1943,41 @@
                     "zh-hans": "🪄 一键部署许多Github开源项目，以便快速体验",
                     "zh-hant": "🪄 一鍵部署許多github開源項目，以促進快速體驗"
                 }
+            },
+            "https://github.com/coderonion/awesome-llm-and-aigc": {
+                "repository_name": "awesome-llm-and-aigc",
+                "user_name": "coderonion",
+                "language": null,
+                "license": null,
+                "description": "🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.",
+                "topics": [
+                    "aigc",
+                    "awesome-list",
+                    "chatgpt",
+                    "computer-vision",
+                    "cuda",
+                    "datasets",
+                    "deepseek",
+                    "gpt",
+                    "hugging-face",
+                    "langchain",
+                    "large-language-models",
+                    "llama",
+                    "llm",
+                    "openai",
+                    "qwen",
+                    "sora",
+                    "triton",
+                    "vla",
+                    "vlm",
+                    "yolo"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.",
+                    "ja": "🚀🚀🚀大規模言語モデル（LLM）、ビジョン言語モデル（VLM）、ビジョン言語アクション（VLA）、AI生成コンテンツ（AIGC）に関するいくつかの素晴らしい公開プロジェクト、関連するデータセット、およびアプリケーションのコレクション。",
+                    "zh-hans": "🚀🚀🚀一些关于大型语言模型(LLM)、视觉语言模型(VLM)、视觉语言行动(VLA)、人工智能生成内容(AIGC)以及相关数据集和应用的精彩公共项目收集。",
+                    "zh-hant": "🚀🚀🚀一系列關於大型語言模型（LLM）、視覺語言模型（VLM）、視覺語言行動（VLA）、人工智慧生成內容（AIGC）、相關數據集和應用的精彩公共項目收藏。"
+                }
             }
         },
         "Prompts": {
@@ -5589,6 +5624,41 @@
                     "ja": "LLMモデルの微調整、合成データ生成、およびデータセットの共同作業に最適なツール。",
                     "zh-hans": "用于微调LLM模型、合成数据生成和数据集协作的最简单工具。",
                     "zh-hant": "微調LLM模型、合成數據生成和協作數據集的最簡單工具。"
+                }
+            },
+            "https://github.com/embeddedllm/jamaibase": {
+                "repository_name": "JamAIBase",
+                "user_name": "EmbeddedLLM",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "ai-agents-framework",
+                    "baas",
+                    "backend-as-a-service",
+                    "chatbot",
+                    "chatgpt",
+                    "intelligent-spreadsheet",
+                    "lancedb",
+                    "llama3-1",
+                    "llm",
+                    "llm-ops",
+                    "orchestration",
+                    "python",
+                    "rag",
+                    "retrieval-augmented-generation",
+                    "serverless",
+                    "spreadsheet",
+                    "svelte",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.",
+                    "ja": "AI向けの共同スプレッドシート。強力なパイプラインを作成し、プロンプトやモデルを試して、LLMの応答をリアルタイムで評価します。シームレスに連携してAIアプリケーションを構築し、繰り返し作業を行います。",
+                    "zh-hans": "用于人工智能的协作电子表格。将单元格链接成强大的管道，尝试不同的提示和模型，并实时评估LLM的响应。无缝合作，共同构建和迭代人工智能应用程序。",
+                    "zh-hant": "用於人工智慧的協作試算表。將單元格鏈接成強大的管道，通過提示和模型進行實驗，並即時評估LLM的回應。無縫合作，共同建立和迭代人工智慧應用程序。"
                 }
             }
         },
@@ -12669,6 +12739,63 @@
                     "zh-hans": "一个具有自然语言理解和人工智能的Python聊天机器人框架。",
                     "zh-hant": "一個具有自然語言理解和人工智慧功能的Python聊天機器人框架。"
                 }
+            },
+            "https://github.com/mayooear/ai-pdf-chatbot-langchain": {
+                "repository_name": "ai-pdf-chatbot-langchain",
+                "user_name": "mayooear",
+                "language": "TypeScript",
+                "license": null,
+                "description": "LangChain & LangGraph AI chatbot for large PDF docs",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "langchain",
+                    "langgraph",
+                    "nextjs",
+                    "openai",
+                    "pdf",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LangChain & LangGraph AI chatbot for large PDF docs",
+                    "ja": "大規模なPDFドキュメント用のLangChain＆LangGraph AIチャットボット",
+                    "zh-hans": "LangChain和LangGraph AI聊天机器人适用于大型PDF文档",
+                    "zh-hant": "LangChain和LangGraph AI聊天機器人適用於大型PDF文件"
+                }
+            },
+            "https://github.com/nbonamy/witsy": {
+                "repository_name": "witsy",
+                "user_name": "nbonamy",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Witsy: desktop AI assistant",
+                "topics": [
+                    "anthropic",
+                    "deepseek",
+                    "electron-app",
+                    "electronjs",
+                    "gemini",
+                    "genai",
+                    "genai-chatbot",
+                    "generative-ai",
+                    "googleai",
+                    "groq",
+                    "mistral",
+                    "mistralai",
+                    "ollama",
+                    "ollama-app",
+                    "ollama-gui",
+                    "openai",
+                    "openrouter",
+                    "vuejs",
+                    "vuejs3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Witsy: desktop AI assistant",
+                    "ja": "Witsy: デスクトップAIアシスタント",
+                    "zh-hans": "Witsy：桌面人工智能助手",
+                    "zh-hant": "Witsy: 桌面人工智慧助理"
+                }
             }
         },
         "Browser-extensions": {
@@ -17445,6 +17572,32 @@
                     "zh-hans": "Jobs_Applier_AI_Agent_AIHawk旨在通过自动化求职流程来简化求职过程。利用人工智能，它使用户能够以个性化的方式申请多个工作。",
                     "zh-hant": "Jobs_Applier_AI_Agent_AIHawk 旨在通過自動化求職流程來簡化求職過程。利用人工智能，它使用戶可以以定制的方式申請多個工作。"
                 }
+            },
+            "https://github.com/flexpilot-ai/vscode-extension": {
+                "repository_name": "vscode-extension",
+                "user_name": "flexpilot-ai",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code",
+                "topics": [
+                    "assistant",
+                    "chatgpt",
+                    "copilot",
+                    "copilot-chat",
+                    "cursor",
+                    "developer-tools",
+                    "free",
+                    "llm",
+                    "open-source",
+                    "vscode",
+                    "vscode-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code",
+                    "ja": "Flexpilot - VS Code向けのオープンソース、ネイティブで真のGitHub Copilotの代替品",
+                    "zh-hans": "Flexpilot - 开源、本地化和真正的 GitHub Copilot 替代品，适用于 VS Code",
+                    "zh-hant": "Flexpilot - 開源、本地化且真正的 GitHub Copilot 替代方案，適用於 VS Code"
+                }
             }
         },
         "CLIs": {
@@ -20814,6 +20967,34 @@
                     "zh-hans": "一个非官方的OpenAI Rest客户端，适用于Unity (UPM)",
                     "zh-hant": "一個非官方的OpenAI Rest客戶端，適用於Unity (UPM)"
                 }
+            },
+            "https://github.com/ozgrozer/ai-renamer": {
+                "repository_name": "ai-renamer",
+                "user_name": "ozgrozer",
+                "language": "JavaScript",
+                "license": "GNU General Public License v3.0",
+                "description": "A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents",
+                "topics": [
+                    "ai",
+                    "automation",
+                    "cli-tool",
+                    "file-management",
+                    "file-renamer",
+                    "files",
+                    "image-renamer",
+                    "llama3",
+                    "lm-studio",
+                    "machine-learning",
+                    "ollama",
+                    "openai",
+                    "video-renamer"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents",
+                    "ja": "OllamaとLM Studioモデル（Llava、Gemma、Llamaなど）を使用して、ファイルの内容に基づいてファイル名を知的に変更するNode.js CLI",
+                    "zh-hans": "一个使用Ollama和LM Studio模型（Llava，Gemma，Llama等）的Node.js CLI，可以根据文件内容智能地重命名文件。",
+                    "zh-hant": "一個使用Ollama和LM Studio模型（Llava、Gemma、Llama等）的Node.js CLI，可以根據文件內容智能地重新命名文件。"
+                }
             }
         },
         "Reimplementations": {
@@ -21558,6 +21739,26 @@
                     "ja": "ChatLLaMA 📢 一つのGPUで実行可能なLLaMAベースのChatGPTのオープンソース実装。ChatGPTよりも15倍高速なトレーニングプロセス。",
                     "zh-hans": "ChatLLaMA 📢 是基于 LLaMA 的 ChatGPT 的开源实现，可在单个 GPU 上运行。训练速度比 ChatGPT 快 15 倍。",
                     "zh-hant": "ChatLLaMA 📢 是一個基於 LLaMA 的開源實現，可在單個 GPU 上運行的 ChatGPT。訓練過程比 ChatGPT 快 15 倍。"
+                }
+            },
+            "https://github.com/dzhng/deep-research": {
+                "repository_name": "deep-research",
+                "user_name": "dzhng",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "gpt",
+                    "o3-mini",
+                    "research"
+                ],
+                "multilingual_descriptions": {
+                    "en": "My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.",
+                    "ja": "私自身のオープンソース実装は、OpenAIの新しいDeep Researchエージェントです。200ドル支払わずに同じ機能を手に入れることができます。さらに、エージェントの振る舞いを調整可能な幅と深さで調整することさえできます。5分間でも5時間でも実行し、自動調整されます。",
+                    "zh-hans": "我自己开发了一个开源实现OpenAI新的深度研究代理的项目。无需支付200美元，即可获得相同的功能。您甚至可以通过可调节的广度和深度来调整代理的行为。无论是运行5分钟还是5小时，它都会自动调整。",
+                    "zh-hant": "我自己的開源實現OpenAI新的Deep Research代理。無需支付200美元即可獲得相同的功能。您甚至可以通過可調節的廣度和深度來調整代理的行為。運行5分鐘或5小時，它將自動調整。"
                 }
             }
         },
@@ -28482,6 +28683,58 @@
                     "zh-hans": "无需编写代码即可创建LLM代理。",
                     "zh-hant": "無需編寫代碼即可創建LLM代理。"
                 }
+            },
+            "https://github.com/zilliztech/deep-searcher": {
+                "repository_name": "deep-searcher",
+                "user_name": "zilliztech",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Deep Research Alternative to Reason on Private Data in Python",
+                "topics": [
+                    "agent",
+                    "agentic-rag",
+                    "deep-research",
+                    "deepseek",
+                    "deepseek-r1",
+                    "llm",
+                    "milvus",
+                    "openai",
+                    "rag",
+                    "vector-database",
+                    "zilliz"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Deep Research Alternative to Reason on Private Data in Python",
+                    "ja": "Pythonにおけるプライベートデータに対する理由の代替としての深い研究",
+                    "zh-hans": "Python中关于私人数据的深度研究替代理由",
+                    "zh-hant": "在Python中深入研究私人数据的替代理由"
+                }
+            },
+            "https://github.com/wwbin2017/bailing": {
+                "repository_name": "bailing",
+                "user_name": "wwbin2017",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "百聆 是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，时延低至800ms，低配置也可运行，支持打断",
+                "topics": [
+                    "ai",
+                    "asr",
+                    "chatgpt",
+                    "chattts",
+                    "deepseek",
+                    "funasr",
+                    "gpt-4o",
+                    "llm",
+                    "openai",
+                    "tts",
+                    "voice-assistant"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Bailing is a speech dialogue robot similar to GPT-4o, implemented through ASR+LLM+TTS, integrating excellent large models such as DeepSeek R1, with a latency as low as 800ms. It can run on low configurations and supports interruption.",
+                    "ja": "百聆は、GPT-4oに似た音声対話ロボットで、ASR+LLM+TTSを使用しており、DeepSeek R1などの優れた大規模モデルを統合しています。遅延は800msまで低減されており、低構成でも動作可能で、打ち消しもサポートしています。",
+                    "zh-hans": "百聆是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，时延低至800ms，低配置也可运行，支持打断。",
+                    "zh-hant": "百聆 是一個類似GPT-4o的語音對話機器人，通過ASR+LLM+TTS實現，集成DeepSeek R1等優秀大模型，時延低至800ms，低配置也可運行，支持打斷。"
+                }
             }
         },
         "Langchain": {
@@ -31527,6 +31780,30 @@
                     "ja": "LangChainを使用したGenAIアプリケーションのための大規模言語モデルの理解と実装に関する包括的なガイドと、実践的な例を紹介します。",
                     "zh-hans": "一份全面指南，帮助理解和实施大型语言模型，并使用LangChain进行GenAI应用的实际示例。",
                     "zh-hant": "一個全面的指南，以實際示例使用LangChain來理解和實施大型語言模型，適用於GenAI應用程式。"
+                }
+            },
+            "https://github.com/buxuku/video-subtitle-master": {
+                "repository_name": "video-subtitle-master",
+                "user_name": "buxuku",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务",
+                "topics": [
+                    "deepseek",
+                    "electron",
+                    "nodejs",
+                    "ollama",
+                    "openai",
+                    "subtitle",
+                    "translate",
+                    "whisper",
+                    "whisper-cpp"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Batch generate subtitles for videos or audios, and batch translate subtitles into other languages. This is a client tool that supports both Mac and Windows systems, and supports multiple translation services such as Baidu, Huoshan, Deeplx, OpenAI, Deepseek, Ollama, etc.",
+                    "ja": "ビデオやオーディオ用の字幕を一括生成し、一括で他の言語に翻訳することができます。これはクライアントツールであり、MacとWindowsシステムをサポートするクロスプラットフォームです。バイドゥ、火山、deeplx、openai、deepseek、ollamaなど、複数の翻訳サービスをサポートしています。",
+                    "zh-hans": "批量为视频或音频生成字幕，并可批量将字幕翻译成其他语言。这是一个客户端工具，跨平台支持mac和windows系统，支持百度、火山、deeplx、openai、deepseek、ollama等多个翻译服务。",
+                    "zh-hant": "批量為視頻或者音頻生成字幕，並可批量將字幕翻譯成其他語言。這是一個客戶端工具，跨平台支持 mac 和 windows 系統，支持百度，火山，deeplx, openai, deepseek, ollama 等多個翻譯服務。"
                 }
             }
         },
@@ -36552,6 +36829,90 @@
                     "ja": "これは、リアルタイムAPIをベースに構築されたより高度なエージェントパターンのシンプルなデモンストレーションです。",
                     "zh-hans": "这是一个简单的演示，展示了在实时API之上构建的更高级的代理模式。",
                     "zh-hant": "這是建立在即時API之上的更高級、主動性模式的簡單演示。"
+                }
+            },
+            "https://github.com/jina-ai/node-deepresearch": {
+                "repository_name": "node-DeepResearch",
+                "user_name": "jina-ai",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)",
+                "topics": [
+                    "deepseek-r1",
+                    "gemini",
+                    "lmstudio",
+                    "ollama",
+                    "openai",
+                    "vercel-ai-sdk"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)",
+                    "ja": "答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）",
+                    "zh-hans": "继续搜索，阅读网页，推理直到找到答案（或超出令牌预算）。",
+                    "zh-hant": "持續搜索、閱讀網頁、推理直到找到答案（或超出令牌預算）"
+                }
+            },
+            "https://github.com/ai4finance-foundation/finrl-meta": {
+                "repository_name": "FinRL-Meta",
+                "user_name": "AI4Finance-Foundation",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "FinRL­-Meta: Dynamic datasets and market environments for FinRL.",
+                "topics": [
+                    "deep-reinforcement-learning",
+                    "drl-trading-agents",
+                    "finance",
+                    "finrl-library",
+                    "fintech",
+                    "openai",
+                    "openai-gym-environments"
+                ],
+                "multilingual_descriptions": {
+                    "en": "FinRL-Meta: Dynamic datasets and market environments for FinRL.",
+                    "ja": "FinRL-Meta：FinRLのための動的データセットと市場環境。FinRL-Meta：FinRLのための動的データセットと市場環境。",
+                    "zh-hans": "FinRL-Meta：为FinRL提供动态数据集和市场环境。",
+                    "zh-hant": "FinRL-Meta：FinRL的動態數據集和市場環境。"
+                }
+            },
+            "https://github.com/codexu/note-gen": {
+                "repository_name": "note-gen",
+                "user_name": "codexu",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "一款专注于记录和写作的跨端 AI 笔记",
+                "topics": [
+                    "ai",
+                    "app",
+                    "chatgpt",
+                    "markdown",
+                    "nextjs",
+                    "notes",
+                    "ocr",
+                    "openai",
+                    "rust",
+                    "shadcn-ui",
+                    "tailwindcss",
+                    "tauri"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A cross-platform AI note-taking app focused on recording and writing.",
+                    "ja": "記録と執筆に特化したクロスプラットフォームAIノート",
+                    "zh-hans": "一款专注于记录和写作的跨端 AI 笔记",
+                    "zh-hant": "一款專注於記錄和寫作的跨平台 AI 筆記"
+                }
+            },
+            "https://github.com/erlichliu/deepclaude": {
+                "repository_name": "DeepClaude",
+                "user_name": "ErlichLiu",
+                "language": "Python",
+                "license": null,
+                "description": "DeepSeek r1 and Claude 3.5 Sonnet achieve the best combination, fully unleashing the power of the strongest models. Supports OpenAI streaming output and can run on your favorite ChatBox!",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "DeepSeek r1 and Claude 3.5 Sonnet achieve the best combination, fully unleashing the power of the strongest models. Supports OpenAI streaming output and can run on your favorite ChatBox!",
+                    "ja": "DeepSeek r1とClaude 3.5 Sonnetが最高の組み合わせを実現し、最強モデルの力を完全に解放します。OpenAIストリーミング出力をサポートし、お気に入りのChatBoxで実行できます！",
+                    "zh-hans": "DeepSeek r1和Claude 3.5 Sonnet实现了最佳组合，充分释放了最强模型的力量。支持OpenAI流式输出，并可以在您喜欢的ChatBox上运行！",
+                    "zh-hant": "DeepSeek r1和Claude 3.5 Sonnet實現了最佳組合，充分發揮了最強模型的力量。支持OpenAI流式輸出，並可在您喜愛的ChatBox上運行！"
                 }
             }
         },
@@ -44361,6 +44722,48 @@
                     "ja": "Gen-AI チャット for Teams - チームの独自の知識にアクセスできる場合、ChatGPTを考えてください。",
                     "zh-hans": "Gen-AI团队聊天-如果它能访问您团队的独特知识，就像ChatGPT一样。",
                     "zh-hant": "Gen-AI團隊聊天-如果它可以訪問您團隊的獨特知識，就像ChatGPT一樣。"
+                }
+            },
+            "https://github.com/jingyaogong/minimind-v": {
+                "repository_name": "minimind-v",
+                "user_name": "jingyaogong",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours!",
+                "topics": [
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "vision-language-model"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours!",
+                    "ja": "🚀「大模型」を3時間でゼロから27MパラメータのビジュアルマルチモードVLMをトレーニング！🌏たった3時間で27MパラメータのVLMをゼロからトレーニング！",
+                    "zh-hans": "🚀 在短短3小时内从头开始训练一个拥有27M参数的视觉多模态VLM！🌏",
+                    "zh-hant": "🚀 在短短3小时内从零开始训练一个拥有27M参数的视觉多模态VLM！🌏"
+                }
+            },
+            "https://github.com/smartschoolai/ai-to-pptx": {
+                "repository_name": "ai-to-pptx",
+                "user_name": "SmartSchoolAI",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "前端后端同时开源。 Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX",
+                "topics": [
+                    "ai-to-pptx",
+                    "aippt",
+                    "chatgpt",
+                    "chatgpt-pptx",
+                    "chatgpt-to-",
+                    "chatgpt-to-pptx",
+                    "pptx",
+                    "slides",
+                    "vueppt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Frontend and backend are open source at the same time. Ai-to-pptx is an assistant that uses AI technology (DeepSeek) to create PPTX files, supporting online generation and export of PPTX files. Main functions: 1. Use large language models like DeepSeek to generate outlines. 2. When generating PPTX files, different templates can be selected. 3. Support exporting PPTX files.",
+                    "ja": "フロントエンドとバックエンドが同時にオープンソース化されています。 Ai-to-pptxは、AI技術（DeepSeek）を使用してPPTXを作成するためのアシスタントであり、オンラインでの生成とPPTXのエクスポートをサポートしています。 主な機能：1. DeepSeekなどの大規模言語モデルを使用してアウトラインを生成する 2. PPTXを生成する際に異なるテンプレートを選択できる 3. PPTXのエクスポートをサポート",
+                    "zh-hans": "前端后端同时开源。Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX",
+                    "zh-hant": "前端後端同時開源。Ai-to-pptx是一個使用AI技術(DeepSeek)製作PPTX的助手，支持線上生成和匯出PPTX。主要功能: 1 使用DeepSeek等大語言模型來生成大綱 2 生成PPTX的時候可以選擇不同的模板 3 支持匯出PPTX。"
                 }
             }
         }
