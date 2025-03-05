@@ -15,20 +15,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - Learn Modern AI Assisted Python with Type Hints
+
+
 **Chatbots**
- * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
+ * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 
 
-**Browser-extensions**
- * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+**CLIs**
+ * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests
 
 
 **NLP**
- * [parlant](https://github.com/emcie-co/parlant) - The heavy-duty guidance framework for customer-facing LLM agents
- * [nerve](https://github.com/dreadnode/nerve) - Create LLM agents without writing code.
+ * [anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
 
 
-_Updated on February 03, 2025_ (A total of 1978 repositories listed.)
+**Openai**
+ * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - deepseek java sdk
+ * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Contrib package for Stable-Baselines3 -  Experimental reinforcement learning (RL) code
+
+
+_Updated on March 06, 2025_ (A total of 2015 repositories listed.)
 
 ## Table of contents
 
@@ -124,6 +132,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
  * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
  * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
+ * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
 
 
 ## Prompts
@@ -282,6 +291,9 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models.    🤖💤
  * [LangChain](https://github.com/tryagi/langchain) - C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are open to new entities.
  * [Kiln](https://github.com/kiln-ai/kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
+ * [JamAIBase](https://github.com/embeddedllm/jamaibase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.
+ * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊
+ * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - Learn Modern AI Assisted Python with Type Hints
 
 
 ## Chatbots
@@ -575,6 +587,12 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
  * [Upsonic](https://github.com/upsonic/upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
  * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+ * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
+ * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS, kokoro), and multi-language translation. Perfect for content creators and developers.
+ * [hollama](https://github.com/fmaclen/hollama) - A minimal web-UI for talking to Ollama (and OpenAI) servers
+ * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 
 
 ## Browser-extensions
@@ -786,6 +804,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
  * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+ * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 
 
 ## CLIs
@@ -935,6 +954,9 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
  * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
  * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - A Non-Official OpenAI Rest Client for Unity (UPM)
+ * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
+ * [lumen](https://github.com/jnsahaj/lumen) - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
+ * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests
 
 
 ## Reimplementations
@@ -975,6 +997,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [WhisperLive](https://github.com/collabora/whisperlive) - A nearly-live implementation of OpenAI's Whisper.
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
  * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT
+ * [deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.
 
 
 ## Tutorials
@@ -1298,6 +1321,13 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [CodeGen](https://github.com/salesforce/codegen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
  * [parlant](https://github.com/emcie-co/parlant) - The heavy-duty guidance framework for customer-facing LLM agents
  * [nerve](https://github.com/dreadnode/nerve) - Create LLM agents without writing code.
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Deep Research Alternative to Reason on Private Data in Python
+ * [bailing](https://github.com/wwbin2017/bailing) - 百聆 是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，时延低至800ms，低配置也可运行，支持打断
+ * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
+ * [AIaW](https://github.com/nitrorcr/aiaw) - AI as Workspace - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、Artifacts
+ * [uni-api](https://github.com/yym68686/uni-api) - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.
+ * [paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
+ * [anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
 
 
 ## Langchain
@@ -1429,6 +1459,10 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [generative-ai](https://github.com/genieincodebottle/generative-ai) - Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.
  * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.
+ * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
+ * [agentkit](https://github.com/bcg-x-official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
+ * [reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
+ * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 
 
 ## Unity
@@ -1667,6 +1701,14 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat, your own unified chat and search to AI platform, with a simple and easy to use interface.
  * [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
  * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
+ * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
+ * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL­-Meta: Dynamic datasets and market environments for FinRL.
+ * [note-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记
+ * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1 and Claude 3.5 Sonnet achieve the best combination, fully unleashing the power of the strongest models. Supports OpenAI streaming output and can run on your favorite ChatBox!
+ * [openai](https://github.com/azure-samples/openai) - The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.
+ * [openai-java](https://github.com/openai/openai-java) - The official Java library for the OpenAI API
+ * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - deepseek java sdk
+ * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Contrib package for Stable-Baselines3 -  Experimental reinforcement learning (RL) code
 
 
 ## Others
@@ -2081,5 +2123,8 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Admin Dashboard Template - Horizon AI Boilerplate
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - CMake integration in Visual Studio Code
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+ * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours!
+ * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - 前端后端同时开源。 Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX
+ * [memobase](https://github.com/memodb-io/memobase) - Profile-Based Long-Term Memory for AI Applications
 
 
